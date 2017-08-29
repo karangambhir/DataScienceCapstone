@@ -1,0 +1,11 @@
+name: TEXTPREDICTOR
+title: TEXTPREDICTOR
+account: karangambhir
+server: shinyapps.io
+appId: 208081
+bundleId: 958679
+url: https://karangambhir.shinyapps.io/TextPredictor/
+when: 1504013507.24197
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: finalCorpus.RData
